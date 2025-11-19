@@ -79,6 +79,7 @@ auth.createUserWithEmailAndPassword(email, password)
     // ...
   });
 
-## Acknowledgements
+# Acknowledgements
 
 Special thanks to [Ayush S](https://github.com/ayush007-lio) for guidance and support.
+
